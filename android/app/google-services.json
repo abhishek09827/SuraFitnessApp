@@ -1,0 +1,215 @@
+{
+  "project_info": {
+    "project_number": "870764610888",
+    "firebase_url": "https://surafitness-4fe71-default-rtdb.firebaseio.com",
+    "project_id": "surafitness-4fe71",
+    "storage_bucket": "surafitness-4fe71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870764610888:android:a761eecccb85bafa925f7d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.SuraFitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870764610888-a48i79nl7f92oh667uekd6prkeb0bcd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.SuraFitness",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "870764610888-a8jer5b1484v1j4emt1pdi7aaqdvb0s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdN96yeIbJHPPsEQlsIxxj32u7qic435M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870764610888-a8jer5b1484v1j4emt1pdi7aaqdvb0s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "870764610888-10ugd85mvdejrgonfe71j8v003ggc6l3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.SuraFitness"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870764610888:android:9fee01a22fd44f55925f7d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870764610888-a8jer5b1484v1j4emt1pdi7aaqdvb0s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdN96yeIbJHPPsEQlsIxxj32u7qic435M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870764610888-a8jer5b1484v1j4emt1pdi7aaqdvb0s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "870764610888-10ugd85mvdejrgonfe71j8v003ggc6l3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.SuraFitness"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870764610888:android:ee65192ed9ff4d83925f7d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870764610888-a8jer5b1484v1j4emt1pdi7aaqdvb0s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdN96yeIbJHPPsEQlsIxxj32u7qic435M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870764610888-a8jer5b1484v1j4emt1pdi7aaqdvb0s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "870764610888-10ugd85mvdejrgonfe71j8v003ggc6l3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.SuraFitness"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870764610888:android:48de3f08e691fe48925f7d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.surafitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870764610888-27lnb8jakvcevpdq56r0mr4dup3emfoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.surafitness",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "870764610888-a8jer5b1484v1j4emt1pdi7aaqdvb0s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdN96yeIbJHPPsEQlsIxxj32u7qic435M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870764610888-a8jer5b1484v1j4emt1pdi7aaqdvb0s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "870764610888-10ugd85mvdejrgonfe71j8v003ggc6l3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.SuraFitness"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870764610888:android:ed5480416e79c41a925f7d",
+        "android_client_info": {
+          "package_name": "com.mycompany.suraadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870764610888-i307maqpb12u0f8286qr2f1kd1s7i2nb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.suraadmin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "870764610888-a8jer5b1484v1j4emt1pdi7aaqdvb0s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdN96yeIbJHPPsEQlsIxxj32u7qic435M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870764610888-a8jer5b1484v1j4emt1pdi7aaqdvb0s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "870764610888-10ugd85mvdejrgonfe71j8v003ggc6l3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.SuraFitness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
